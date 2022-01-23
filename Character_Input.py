@@ -1,0 +1,7 @@
+prompt_name = input("Please tell me your name: ")
+print(f"\nHello, {prompt_name}!")
+prompt_age = input("\nPlease tell me your age: ")
+print(f"\n{prompt_age},is a great age!")
+age_int = int(prompt_age) 
+total = 100 - (age_int)
+print(f"\nYou have {total} years until you are 100!")
