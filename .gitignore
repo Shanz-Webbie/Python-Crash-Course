@@ -1,4 +1,6 @@
 __pycache__
 tutorial_env
 pygame
+.DS_Store
+.idea/
 *html
